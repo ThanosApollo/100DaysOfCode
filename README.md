@@ -6,4 +6,6 @@ Day 1 :
     -> Reviewed OOP concepts in Python
 Day 2 :
   ->Finished pong_game
+Day 3 :
+  ->Finished turtle_crossing 
 <pre>
