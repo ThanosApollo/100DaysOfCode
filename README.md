@@ -17,6 +17,6 @@ Day 3 :
     ->Finished Day 23 Dr.Angela Yu Python course
 Day 4 : 
   ->Finished Day 24 of Dr.Angela Yu Python course
-    ->Added Highscore in snake_game 
+    ->Added high score data in snake_game 
   ->Finished Section 1,2,3,4 of Colt Steele Git&GitHub course
 <pre>
