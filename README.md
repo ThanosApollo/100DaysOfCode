@@ -19,4 +19,8 @@ Day 4 :
   ->Finished Day 24 of Dr.Angela Yu Python course
     ->Added high score data in snake_game 
   ->Finished Section 1,2,3,4 of Colt Steele Git&GitHub course
+Day 5 :
+  ->Learning about Pandas
+    ->Created united_states_game 
+  ->Learning more about git
 <pre>
