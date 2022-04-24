@@ -25,5 +25,6 @@ Day 5 :
   ->Learning more about git
 Day 6 :
   ->Working with Tkinter
+    ->Completed miles_to_km project
   ->Learning vim
 <pre>
