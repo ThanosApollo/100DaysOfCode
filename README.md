@@ -1,8 +1,8 @@
 # 100DaysOfCode
 Projects made under the 100DaysOfCode challenge
-Resources I've used :
-  -Python Pro Bootcamp by Dr.Angela Yu
-  -Git&GitHub Bootcamp by Colt Steele
+Resources I've used : <br />
+  -Python Pro Bootcamp by Dr.Angela Yu <br />
+  -Git&GitHub Bootcamp by Colt Steele <br />
 <pre>
 Day 1 :
   ->Finished snake_game
