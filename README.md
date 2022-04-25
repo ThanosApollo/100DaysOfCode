@@ -31,4 +31,7 @@ Day 6 :
   ->Working with Tkinter
     ->Completed miles_to_km project
   ->Learning vim
+Day 7:
+  ->Working with Tkinter
+    ->Completed pomodoro_timer
 <pre>
