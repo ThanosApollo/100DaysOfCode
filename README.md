@@ -34,4 +34,7 @@ Day 6 :
 Day 7:
   ->Working with Tkinter
     ->Completed pomodoro_timer
+Day 8:
+  ->Working with Tkinter
+    ->Completed password_manager
 <pre>
