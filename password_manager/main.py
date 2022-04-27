@@ -105,7 +105,7 @@ search_button = Button(text='Search',width=10, command=find_password)
 
 
 website_entry = Entry(width=18)
-email_entry = Entry(width=35)
+email_entry = Entry(width=18)
 password_entry = Entry(width=18)
 
 
@@ -119,7 +119,7 @@ canvas.grid(column=1,row=0)
 website_label.grid(column=0,row=1)
 website_entry.grid(column=1,row=1, columnspan=1)
 email_label.grid(column=0,row=2)
-email_entry.grid(column=1,row=2, columnspan=2)
+email_entry.grid(column=1,row=2, columnspan=1)
 password_label.grid(column=0,row=3)
 password_entry.grid(column=1,row=3)
 search_button.grid(column=2,row=1)
