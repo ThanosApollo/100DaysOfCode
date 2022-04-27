@@ -37,4 +37,9 @@ Day 7:
 Day 8:
   ->Working with Tkinter
     ->Completed password_manager
+Day 9:
+  ->Learning json
+  ->Improved password_manager with json
+  ->Add "search" on password_manager
+  ->Upload my medical notes on github
 <pre>
