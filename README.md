@@ -42,4 +42,7 @@ Day 9:
   ->Improved password_manager with json
   ->Add "search" on password_manager
   ->Upload my medical notes on github
+Day 10:
+  ->Create a .csv with 1500 most popular bulgarian words, used to make an anki deck
+  ->Start flash_card_app project
 <pre>
