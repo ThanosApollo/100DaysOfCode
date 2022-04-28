@@ -44,5 +44,5 @@ Day 9:
   ->Upload my medical notes on github
 Day 10:
   ->Create a .csv with 1500 most popular bulgarian words, used to make an anki deck
-  ->Start flash_card_app project
+  ->Complete flash_card_app
 <pre>
