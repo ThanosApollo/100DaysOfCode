@@ -15,6 +15,7 @@ wheels/
 .installed.cfg
 *.egg
 __pycache__/
+password.py 
 
 *.DS_Store
 .AppleDouble
@@ -24,3 +25,5 @@ __pycache__/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+

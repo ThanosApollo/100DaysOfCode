@@ -45,4 +45,8 @@ Day 9:
 Day 10:
   ->Create a .csv with 1500 most popular bulgarian words, used to make an anki deck
   ->Complete flash_card_app
+Day 11 :
+  ->Play around with folium
+  ->Learn about git branches
+  ->Codewards
 <pre>
