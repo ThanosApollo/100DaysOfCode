@@ -49,4 +49,14 @@ Day 11 :
   ->Play around with folium
   ->Learn about git branches
   ->Codewards
+Day 12:
+  ->Codewars
+Day 13:
+  ->Learning about APIs
+  ->753 Anki cards
+  ->Shoulder +biceps workout
+  ->Almost finished microbiology syllabus
+  ->kanye_quote generator completed
+  ->track_iss project completed
+  ->Updated GitHub repos
 <pre>
