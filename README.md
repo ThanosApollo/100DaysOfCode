@@ -59,5 +59,6 @@ Day 13:
   ->Updated GitHub repos
 Day 14:
   ->Made quizzler_python, a quiz app using TriviaDB API
+  ->Working on a similar quiz app using flutter 
 
 <pre>
