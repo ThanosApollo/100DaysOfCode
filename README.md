@@ -4,7 +4,7 @@
   -Python Pro Bootcamp by Dr.Angela Yu <br>
   -Git&GitHub Bootcamp by Colt Steele <br>
   -Web Development Bootcamp by Dr.Angela Yu <br>
-<hr size=3>
+<hr size=3 noshade>
 
 <p align="center">
     Daily Log:
