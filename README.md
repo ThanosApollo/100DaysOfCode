@@ -1,9 +1,11 @@
 
 <h1>100DaysOfCode Projects</h1>
 <h3>Resources I've used :</h3> 
-  -Python Pro Bootcamp by Dr.Angela Yu <br>
-  -Git&GitHub Bootcamp by Colt Steele <br>
-  -Web Development Bootcamp by Dr.Angela Yu <br>
+  <ul>
+        <li><a href="https://github.com/ThanosApollo">Web Development Bootcamp</a></li>
+        <li><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp</a></li>
+    </ul>
+  <a> -Web Development Bootcamp by Dr.Angela Yu <br>
 <hr size=3 noshade>
 
 <p align="center">
