@@ -1,7 +1,7 @@
 # 100DaysOfCode
 <hr>
-Projects made under the 100DaysOfCode challenge
-Resources I've used : <br />
+<h1>Projects made under the 100DaysOfCode challenge</h1>
+<h2>Resources I've used :</h2> <br />
   -Python Pro Bootcamp by Dr.Angela Yu <br />
   -Git&GitHub Bootcamp by Colt Steele <br />
 <hr>
