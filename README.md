@@ -5,7 +5,6 @@
         <li><a href="https://github.com/ThanosApollo">Web Development Bootcamp</a></li>
         <li><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp</a></li>
     </ul>
-  <a> -Web Development Bootcamp by Dr.Angela Yu <br>
 <hr size=3 noshade>
 
 <p align="center">
