@@ -1,8 +1,10 @@
 # 100DaysOfCode
+<hr>
 Projects made under the 100DaysOfCode challenge
 Resources I've used : <br />
   -Python Pro Bootcamp by Dr.Angela Yu <br />
   -Git&GitHub Bootcamp by Colt Steele <br />
+<hr>
 
 <p align="center">
     Daily Log:
