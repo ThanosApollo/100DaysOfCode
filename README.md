@@ -1,10 +1,10 @@
 
 <h1>100DaysOfCode Challenge Projects</h1>
-<h3>Resources I've used :</h3> <br />
+<h3>Resources I've used :</h3> <br>
   -Python Pro Bootcamp by Dr.Angela Yu <br>
   -Git&GitHub Bootcamp by Colt Steele <br>
   -Web Development Bootcamp by Dr.Angela Yu <br>
-<hr>
+<hr size=3>
 
 <p align="center">
     Daily Log:
