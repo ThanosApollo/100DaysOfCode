@@ -63,5 +63,14 @@ Day 13:
 Day 14:
   ->Made quizzler_python, a quiz app using TriviaDB API
   ->Working on a similar quiz app using flutter 
+Day 15:
+  ->Learning how to build a website
+Day 16:
+  ->Launched a website to host medical education content using github
+  ->Converting my notes from .txt to .html 
+Day 17:
+  ->Make weather_notification
+  ->Sends SMS when it's about to rain
+  ->Learning more about API's
 
 <pre>
