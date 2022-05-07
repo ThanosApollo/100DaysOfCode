@@ -72,5 +72,7 @@ Day 17:
   ->Make weather_notification
   ->Sends SMS when it's about to rain
   ->Learning more about API's
+Day 18:
+  ->Add stock_notifications 
 
 <pre>
