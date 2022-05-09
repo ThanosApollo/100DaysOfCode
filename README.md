@@ -75,6 +75,8 @@ Day 17:
 Day 18:
   ->Add stock_notifications 
 Day 19:
+	->Made a graph using pixela API to track my workouts and time spent in the gym
+Day 20 :
 	->Working on MUStudents site
 	->Working on Personal site
 	->Finished vimtutor
