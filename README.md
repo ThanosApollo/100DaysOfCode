@@ -74,5 +74,9 @@ Day 17:
   ->Learning more about API's
 Day 18:
   ->Add stock_notifications 
+Day 19:
+	->Working on MUStudents site
+	->Working on Personal site
+	->Finished vimtutor
 
 <pre>
