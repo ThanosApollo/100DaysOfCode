@@ -1,27 +1,22 @@
-body {
-    background-color: antiquewhite;
-    color: black;
+.top {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    border-color: black;
 }
 
-img {
-    height: 250px;
-}
-
-hr {
-    height: 1px;
-    width: 10%;
-    border: dotted 3px;
-    border-style: none none dotted;
-}
-
-h1 {
-    color: coral;
-}
-
-.bacon {
+.middle {
     background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-left: 205px;
+    border: solid 20px;
 }
 
-#heading {
-    color: aliceblue;
+.bottom {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    margin-left: 390px;
+    border: solid 10px
 }
