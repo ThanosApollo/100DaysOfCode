@@ -55,7 +55,6 @@
   ->Learn about git branches<br>
   ->Codewars<br>
 <h2>Day 12:</h2>
-<pre>
   ->Codewars<br>
 <h2>Day 13:</h2>
   ->Learning about APIs<br>
@@ -79,7 +78,6 @@
   ->Add stock_notifications <br>
 <h2>Day 19:</h2>
 	->Made a graph using pixela API to track my workouts and time spent in the gym<br>
-    </pre>
 <h2>Day 20 :</h2>
 	->Working on MUStudents site <br>
 	->Working on Personal site<br>
