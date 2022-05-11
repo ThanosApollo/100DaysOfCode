@@ -13,117 +13,77 @@
     Daily Log:
 </p>
 <h2> Day 1 :</h2>
-<pre>
-  ->Finished snake_game
-    -> Reviewed OOP concepts in Python
-    -> Finished Day 21 of Dr.Angela Yu Python course
-    </pre>
+  ->Finished snake_game<br>
+  -> Reviewed OOP concepts in Python<br>
+  -> Finished Day 21 of Dr.Angela Yu Python course<br>
 <h2>Day 2 :</h2>
-<pre>
-  ->Finished pong_game
-    ->Finished day 22 of Dr.Anegla Yu Python course
-    </pre>
+  ->Finished pong_game<br>
+  ->Finished day 22 of Dr.Anegla Yu Python course<br>
 <h2>Day 3 :</h2>
-<pre>
-  ->Finished turtle_crossing 
-    ->Getting used to applying OOP in every project I make
-    ->Finished Day 23 Dr.Angela Yu Python course
-    </pre>
+  ->Finished turtle_crossing<br> 
+  ->Getting used to applying OOP in every project I make<br>
+  ->Finished Day 23 Dr.Angela Yu Python course<br>
 
 <h2>Day 4 :</h2> 
-<pre>   
-  ->Finished Day 24 of Dr.Angela Yu Python course
-    ->Added high score data in snake_game 
-  ->Finished Section 1,2,3,4 of Colt Steele Git&GitHub course
-  </pre>
+  ->Finished Day 24 of Dr.Angela Yu Python course<br>
+  ->Added high score data in snake_game<br> 
+  ->Finished Section 1,2,3,4 of Colt Steele Git&GitHub course<br>
 <h2>Day 5 :</h2>
-<pre>
-  ->Learning about Pandas
-    ->Created united_states_game 
-  ->Learning more about git
-  </pre>
-
+  ->Learning about Pandas<br>
+  ->Created united_states_game <br>
+  ->Learning more about git<br>
 <h2>Day 6 : </h2>
-<pre>
-  ->Working with Tkinter
-    ->Completed miles_to_km project
-  ->Learning vim
-  </pre>
-  
+  ->Working with Tkinter<br>
+  ->Completed miles_to_km project<br>
+  ->Learning vim<br>
 <h2>Day 7:</h2>
-<pre>
-  ->Working with Tkinter
-    ->Completed pomodoro_timer
-    </pre>
+  ->Working with Tkinter<br>
+  ->Completed pomodoro_timer<br>
 <h2>Day 8:</h2>
-<pre>
-  ->Working with Tkinter
-    ->Completed password_manager
-    </pre>
+  ->Working with Tkinter<br>
+  ->Completed password_manager<br>
 <h2>Day 9:</h2>
-<pre>
-  ->Learning json
-  ->Improved password_manager with json
-  ->Add "search" on password_manager
-  ->Upload my medical notes on github
-  </pre>
+  ->Learning json<br>
+  ->Improved password_manager with json<br>
+  ->Add "search" on password_manager<br>
+  ->Upload my medical notes on github<br>
 <h2>Day 10:</h2>
-<pre>
-  ->Create a .csv with 1500 most popular bulgarian words, used to make an anki deck
-  ->Complete flash_card_app
-  </pre>
+  ->Create a .csv with 1500 most popular bulgarian words, used to make an anki deck<br>
+  ->Complete flash_card_app<br>
 <h2>Day 11 :</h2>
-<pre>
-  ->Play around with folium
-  ->Learn about git branches
-  ->Codewars
-  </pre>
+  ->Play around with folium<br>
+  ->Learn about git branches<br>
+  ->Codewars<br>
 <h2>Day 12:</h2>
 <pre>
-  ->Codewars
-  </pre>
+  ->Codewars<br>
 <h2>Day 13:</h2>
-<pre>
-  ->Learning about APIs
-  ->Shoulder +biceps workout
-  ->kanye_quote generator completed
-  ->track_iss project completed
-  ->Updated GitHub repos
-  </pre>
+  ->Learning about APIs<br>
+  ->Shoulder +biceps workout<br>
+  ->kanye_quote generator completed<br>
+  ->track_iss project completed<br>
+  ->Updated GitHub repos<br>
 <h2>Day 14:</h2>
-<pre>
-  ->Made quizzler_python, a quiz app using TriviaDB API
-  ->Working on a similar quiz app using flutter 
-  </pre>
+  ->Made quizzler_python, a quiz app using TriviaDB API<br>
+  ->Working on a similar quiz app using flutter <br>
 <h2>Day 15:</h2>
-<pre>
-  ->Learning how to build a website
-  </pre>
+  ->Learning how to build a website<br>
 <h2>Day 16:</h2>
-<pre>
-  ->Launched a website to host medical education content using github
-  ->Converting my notes from .txt to .html 
-  </pre>
+  ->Launched a website to host medical education content using github<br>
+  ->Converting my notes from .txt to .html <br>
 <h2>Day 17:</h2>
-<pre>
-  ->Make weather_notification
-  ->Sends SMS when it's about to rain
-  ->Learning more about API's
-  </pre>
+  ->Make weather_notification<br>
+  ->Sends SMS when it's about to rain<br>
+  ->Learning more about API's<br>
 <h2>Day 18:</h2>
-<pre>
-  ->Add stock_notifications 
-  </pre>
+  ->Add stock_notifications <br>
 <h2>Day 19:</h2>
-<pre>
-	->Made a graph using pixela API to track my workouts and time spent in the gym
+	->Made a graph using pixela API to track my workouts and time spent in the gym<br>
     </pre>
 <h2>Day 20 :</h2>
-<pre>   
-	->Working on MUStudents site
-	->Working on Personal site
-	->Finished vimtutor
-</pre>
+	->Working on MUStudents site <br>
+	->Working on Personal site<br>
+	->Finished vimtutor<br>
 <h2>Day 21</h2>
     ->Customizing vim <br>
     ->Writing Python scripts to organize my folders<br>
