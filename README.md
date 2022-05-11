@@ -4,32 +4,43 @@
   <ul>
         <li><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development Bootcamp</a></li>
         <li><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp</a></li>
+        <li><a href="https://www.udemy.com/course/vim-commands-cheat-sheet/">Vim Masterclass</a></li>
     </ul>
 <hr size=3 noshade>
+
 
 <p align="center">
     Daily Log:
 </p>
+<h1> Day 1 :</h1>
 <pre>
-Day 1 :
   ->Finished snake_game
     -> Reviewed OOP concepts in Python
     -> Finished Day 21 of Dr.Angela Yu Python course
-Day 2 :
+    </pre>
+<h2>Day 2 :</h2>
   ->Finished pong_game
     ->Finished day 22 of Dr.Anegla Yu Python course
-Day 3 :
+<h2>Day 3 :</h2>
+<pre>
   ->Finished turtle_crossing 
     ->Getting used to applying OOP in every project I make
     ->Finished Day 23 Dr.Angela Yu Python course
-Day 4 : 
+    </pre>
+
+<h2>Day 4 :</h2> 
+<pre>   
   ->Finished Day 24 of Dr.Angela Yu Python course
     ->Added high score data in snake_game 
   ->Finished Section 1,2,3,4 of Colt Steele Git&GitHub course
-Day 5 :
+  </pre>
+<h2>Day 5 :</h2>
+<pre>
   ->Learning about Pandas
     ->Created united_states_game 
   ->Learning more about git
+  </pre>
+
 Day 6 :
   ->Working with Tkinter
     ->Completed miles_to_km project
