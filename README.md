@@ -125,10 +125,8 @@
 	->Finished vimtutor
 </pre>
 <h2>Day 21</h2>
-<pre> 
-    ->Customizing vim
-    ->Writing Python scripts to organize my folders
-    </pre>
+    ->Customizing vim <br>
+    ->Writing Python scripts to organize my folders<br>
 <h2>Day 22</h2>
 
   ->Learning about web scraping <br>
