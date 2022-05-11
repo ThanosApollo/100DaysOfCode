@@ -124,7 +124,7 @@
 	->Working on Personal site
 	->Finished vimtutor
 </pre>
-<h4>Day 21</h4>
+<h2>Day 21</h2>
 <pre> 
     ->Customizing vim
     ->Writing Python scripts to organize my folders
