@@ -123,5 +123,9 @@
 	->Working on MUStudents site
 	->Working on Personal site
 	->Finished vimtutor
-
-<pre>
+</pre>
+<h4>Day 21</h4>
+<pre> 
+    ->Customizing vim
+    ->Writing Python scripts to organize my folders
+    </pre>
