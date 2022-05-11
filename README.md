@@ -129,3 +129,6 @@
     ->Customizing vim
     ->Writing Python scripts to organize my folders
     </pre>
+<h2>Day 22</h2>
+  ->Learning about web scraping
+  ->Used beautiful soup to scrape data for top100 movies and hacker news most upvoted article
